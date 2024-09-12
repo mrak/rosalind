@@ -21,5 +21,8 @@ path = "src/bin/revc.rs"
 [[bin]]
 name = "gc"
 path = "src/bin/gc.rs"
+[[bin]]
+name = "hamm"
+path = "src/bin/hamm.rs"
 
 [dependencies]
