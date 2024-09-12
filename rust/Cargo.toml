@@ -18,5 +18,8 @@ path = "src/bin/fibd.rs"
 [[bin]]
 name = "revc"
 path = "src/bin/revc.rs"
+[[bin]]
+name = "gc"
+path = "src/bin/gc.rs"
 
 [dependencies]
