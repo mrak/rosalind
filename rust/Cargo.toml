@@ -24,5 +24,8 @@ path = "src/bin/gc.rs"
 [[bin]]
 name = "hamm"
 path = "src/bin/hamm.rs"
+[[bin]]
+name = "iprb"
+path = "src/bin/iprb.rs"
 
 [dependencies]
