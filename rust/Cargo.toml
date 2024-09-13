@@ -33,5 +33,8 @@ path = "src/bin/iev.rs"
 [[bin]]
 name = "prot"
 path = "src/bin/prot.rs"
+[[bin]]
+name = "subs"
+path = "src/bin/subs.rs"
 
 [dependencies]
