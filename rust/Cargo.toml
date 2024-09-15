@@ -36,5 +36,8 @@ path = "src/bin/prot.rs"
 [[bin]]
 name = "subs"
 path = "src/bin/subs.rs"
+[[bin]]
+name = "mprt"
+path = "src/bin/mprt.rs"
 
 [dependencies]
